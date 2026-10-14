@@ -7,7 +7,6 @@ setup(
     name="RHYME",
     version="1.0.0",
     author="Farhan Sheth, Girish, Mohd Mujtaba Akhtar, Muskaan Singh",
-    author_email="girish281003@gmail.com",
     description="Generalizing Speech Deepfake Detection using Non-Euclidean Geometry",
     long_description=long_description,
     long_description_content_type="text/markdown",
